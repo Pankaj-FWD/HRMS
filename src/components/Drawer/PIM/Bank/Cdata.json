@@ -1,0 +1,33 @@
+[
+    { "field": "id", "headerName": "ID", "width": 90 },
+    {
+        "field": "bankname",
+        "headerName": "Bank Name",
+        "width": 150,
+        "editable": "true"
+      },
+    {
+      "field": "accountnumber",
+      "headerName": "Account Number",
+      "width": 150,
+      "editable": "true"
+    },
+    {
+      "field": "ifsc",
+      "headerName": "IFSC",
+      "width": 150,
+      "editable": "true"
+    },
+    {
+        "field": "address1",
+        "headerName": "Address 1",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "address2",
+        "headerName": "Address 2",
+        "width": 150,
+        "editable": "true"
+      }
+  ]

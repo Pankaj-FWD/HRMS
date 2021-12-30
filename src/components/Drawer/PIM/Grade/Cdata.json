@@ -1,0 +1,57 @@
+[
+    { "field": "id", "headerName": "ID", "width": 50 },
+    {
+      "field": "code",
+      "headerName": "Code",
+      "width": 100,
+      "editable": "true"
+    },
+    {
+      "field": "name",
+      "headerName": "Name",
+      "width": 120,
+      "editable": "true"
+    },
+    {
+        "field": "intialsalary",
+        "headerName": "Initial Salary",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "firstincrement",
+        "headerName": "First Increment",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "firstsalarylimit",
+        "headerName": "First Salary Limit",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "secondincrement",
+        "headerName": "Second Increment",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+          "field": "secondsalarylimit",
+          "headerName": "Second Salary Limit",
+          "width": 150,
+          "editable": "true"
+        },
+        {
+            "field": "thirdincrement",
+            "headerName": "Third Increment",
+            "width": 150,
+            "editable": "true"
+          },
+          {
+              "field": "thirdsalarylimit",
+              "headerName": "Third Salary Limit",
+              "width": 150,
+              "editable": "true"
+            }
+  ]

@@ -1,0 +1,63 @@
+[
+    { "field": "id", "headerName": "ID", "width": 90 },
+    {
+        "field": "shiftcode",
+        "headerName": "Shift Code",
+        "width": 150,
+        "editable": "true"
+      },
+    {
+      "field": "name",
+      "headerName": "Name",
+      "width": 150,
+      "editable": "true"
+    },
+    {
+      "field": "starttime",
+      "headerName": "Start Time",
+      "width": 150,
+      "editable": "true"
+    },
+    {
+        "field": "endtime",
+        "headerName": "End Time",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "breackstarttime",
+        "headerName": "Breack Start Time",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "breakendtime",
+        "headerName": "Break End Time",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "nextshiftname",
+        "headerName": "Next Shift Name",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "relivershiftname",
+        "headerName": "Reliver Shift Name",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "ingeneralshift",
+        "headerName": "In General Shift",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "breakapplicable",
+        "headerName": "Break Applicable",
+        "width": 150,
+        "editable": "true"
+      }
+  ]

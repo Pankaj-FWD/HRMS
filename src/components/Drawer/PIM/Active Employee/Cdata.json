@@ -1,0 +1,388 @@
+[
+    { "field": "id", "headerName": "ID", "width": 90 },
+    {
+        "field": "code",
+        "headerName": "Code",
+        "width": 150,
+        "editable": "true"
+      },
+    {
+      "field": "employeename",
+      "headerName": "Employee Name",
+      "width": 150,
+      "editable": "true"
+    },
+    {
+      "field": "firstname",
+      "headerName": "First Name",
+      "width": 150,
+      "editable": "true"
+    },
+    {
+        "field": "middlename",
+        "headerName": "Middle Name",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "lastname",
+        "headerName": "Last Name",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "fathername",
+        "headerName": "Father Name",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+        "field": "mothername",
+        "headerName": "Mother Name",
+        "width": 150,
+        "editable": "true"
+      },
+      {
+          "field": "dateofbirth",
+          "headerName": "Date Of Birth",
+          "width": 150,
+          "editable": "true"
+        },
+        {
+          "field": "dateofjoining",
+          "headerName": "Date Of Joining",
+          "width": 150,
+          "editable": "true"
+        },
+        {
+            "field": "confirmationdate",
+            "headerName": "Confirmation Date",
+            "width": 150,
+            "editable": "true"
+          },
+          {
+            "field": "expecteddateofretirement",
+            "headerName": "Expected date Of Retirement",
+            "width": 150,
+            "editable": "true"
+          },
+          {
+            "field": "isretired",
+            "headerName": "Is Retired",
+            "width": 150,
+            "editable": "true"
+          },
+          {
+            "field": "holidaypaymentapplicable",
+            "headerName": "Holiday Payment Applicable",
+            "width": 150,
+            "editable": "true"
+          },
+          {
+              "field": "dateofretirement",
+              "headerName": "Date Of Retirement",
+              "width": 150,
+              "editable": "true"
+            },
+            {
+              "field": "permanetaddress",
+              "headerName": "Permanent Address",
+              "width": 150,
+              "editable": "true"
+            },
+            {
+                "field": "currentaddress",
+                "headerName": "Current Address",
+                "width": 150,
+                "editable": "true"
+              },
+              {
+                "field": "sectionname",
+                "headerName": "Section Name",
+                "width": 150,
+                "editable": "true"
+              },
+              {
+                "field": "grade",
+                "headerName": "Grade",
+                "width": 150,
+                "editable": "true"
+              },
+              {
+                "field": "shiftname",
+                "headerName": "Shift Name",
+                "width": 150,
+                "editable": "true"
+              },
+              {
+                  "field": "pan",
+                  "headerName": "Pan",
+                  "width": 150,
+                  "editable": "true"
+                },
+                {
+                  "field": "ifsc",
+                  "headerName": "IFSC",
+                  "width": 150,
+                  "editable": "true"
+                },
+                {
+                  "field": "accountnumber",
+                  "headerName": "Account Number",
+                  "width": 150,
+                  "editable": "true"
+                },
+                {
+                  "field": "basicsalary",
+                  "headerName": "Basic Salary",
+                  "width": 150,
+                  "editable": "true"
+                },
+                {
+                    "field": "aadhaarcardnumber",
+                    "headerName": "Aadhar Card Number",
+                    "width": 150,
+                    "editable": "true"
+                  },
+                  {
+                    "field": "categoryname",
+                    "headerName": "Category Name",
+                    "width": 150,
+                    "editable": "true"
+                  },
+                  {
+                      "field": "seasonalsubsectionname",
+                      "headerName": "Seasonal Subsection Name",
+                      "width": 150,
+                      "editable": "true"
+                    },
+                    {
+                      "field": "designationname",
+                      "headerName": "Designation Name",
+                      "width": 150,
+                      "editable": "true"
+                    },
+                    {
+                        "field": "paymentmode",
+                        "headerName": "Payment Mode",
+                        "width": 150,
+                        "editable": "true"
+                      },
+                      {
+                        "field": "ispentionmember",
+                        "headerName": "Is Pention Member",
+                        "width": 150,
+                        "editable": "true"
+                      },
+                      {
+                          "field": "familypentionnumber",
+                          "headerName": "Family Pention Number",
+                          "width": 150,
+                          "editable": "true"
+                        },
+                        {
+                          "field": "gender",
+                          "headerName": "Gender",
+                          "width": 150,
+                          "editable": "true"
+                        },
+                        {
+                          "field": "location",
+                          "headerName": "Location",
+                          "width": 150,
+                          "editable": "true"
+                        },
+                        {
+                          "field": "plinumber",
+                          "headerName": "Pli Number",
+                          "width": 150,
+                          "editable": "true"
+                        },
+                        {
+                            "field": "weeklyoff",
+                            "headerName": "Weekly Off",
+                            "width": 150,
+                            "editable": "true"
+                          },
+                          {
+                            "field": "overtimeapplicable",
+                            "headerName": "overtime Applicable",
+                            "width": 150,
+                            "editable": "true"
+                          },
+                          {
+                              "field": "overtimerate",
+                              "headerName": "Overtime Rate",
+                              "width": 150,
+                              "editable": "true"
+                            },
+                            {
+                              "field": "dailywagesrate",
+                              "headerName": "Overtime Wages Rate",
+                              "width": 150,
+                              "editable": "true"
+                            },
+                            {
+                                "field": "prevdailywagesrate",
+                                "headerName": "Prev. Daily Wages Rate",
+                                "width": 150,
+                                "editable": "true"
+                              },
+                              {
+                                "field": "maritalstatus",
+                                "headerName": "Marital Status",
+                                "width": 150,
+                                "editable": "true"
+                              },
+                              {
+                                  "field": "dateofmarriage",
+                                  "headerName": "Date Of Marriage",
+                                  "width": 150,
+                                  "editable": "true"
+                                },
+                                {
+                                  "field": "placeofbirthcityname",
+                                  "headerName": "Place Of Birth City Name",
+                                  "width": 150,
+                                  "editable": "true"
+                                },
+                                {
+                                  "field": "bloodgroup",
+                                  "headerName": "Blood Group",
+                                  "width": 150,
+                                  "editable": "true"
+                                },
+                                {
+                                  "field": "religionname",
+                                  "headerName": "Religion name",
+                                  "width": 150,
+                                  "editable": "true"
+                                },
+                                {
+                                    "field": "castname",
+                                    "headerName": "Cast Name",
+                                    "width": 150,
+                                    "editable": "true"
+                                  },
+                                  {
+                                    "field": "gratuitypolicynumber",
+                                    "headerName": "Gretuity Policy Number",
+                                    "width": 150,
+                                    "editable": "true"
+                                  },
+                                  {
+                                      "field": "dateoftermination",
+                                      "headerName": "Date Of Termination",
+                                      "width": 150,
+                                      "editable": "true"
+                                    },
+                                    {
+                                      "field": "status",
+                                      "headerName": "Status",
+                                      "width": 150,
+                                      "editable": "true"
+                                    },
+                                    {
+                                        "field": "ispfdeducted",
+                                        "headerName": "Is Pf Deducted",
+                                        "width": 150,
+                                        "editable": "true"
+                                      },
+                                      {
+                                        "field": "pfno",
+                                        "headerName": "Pf No.",
+                                        "width": 150,
+                                        "editable": "true"
+                                      },
+                                      {
+                                          "field": "gratuitylic",
+                                          "headerName": "Gratuity Lic",
+                                          "width": 150,
+                                          "editable": "true"
+                                        },
+                                        {
+                                          "field": "departmentname",
+                                          "headerName": "Department Name",
+                                          "width": 150,
+                                          "editable": "true"
+                                        },
+                                        {
+                                          "field": "classname",
+                                          "headerName": "Class Name",
+                                          "width": 150,
+                                          "editable": "true"
+                                        },
+                                        {
+                                          "field": "divisionname",
+                                          "headerName": "Division Name",
+                                          "width": 150,
+                                          "editable": "true"
+                                        },
+                                        {
+                                            "field": "skilltype",
+                                            "headerName": "Skill Type",
+                                            "width": 150,
+                                            "editable": "true"
+                                          },
+                                          {
+                                            "field": "accommondationprovided",
+                                            "headerName": "Accommondation Provided",
+                                            "width": 150,
+                                            "editable": "true"
+                                          },
+                                          {
+                                              "field": "quarterno",
+                                              "headerName": "Quarter No",
+                                              "width": 150,
+                                              "editable": "true"
+                                            },
+                                            {
+                                              "field": "isclubmember",
+                                              "headerName": "Is Club Member",
+                                              "width": 150,
+                                              "editable": "true"
+                                            },
+                                            {
+                                                "field": "bonusnotpayable",
+                                                "headerName": "Bonus Not Payable",
+                                                "width": 150,
+                                                "editable": "true"
+                                              },
+                                              {
+                                                "field": "fixedemployeebonus",
+                                                "headerName": "Fixed Employee Bonus",
+                                                "width": 150,
+                                                "editable": "true"
+                                              },
+                                              {
+                                                  "field": "cardtype",
+                                                  "headerName": "Card Type",
+                                                  "width": 150,
+                                                  "editable": "true"
+                                                },
+                                                {
+                                                  "field": "employmentstatus",
+                                                  "headerName": "Employment Status",
+                                                  "width": 150,
+                                                  "editable": "true"
+                                                },
+                                                {
+                                                  "field": "flexibletimingallowed",
+                                                  "headerName": "Flexible Time Allowed",
+                                                  "width": 150,
+                                                  "editable": "true"
+                                                },
+                                                {
+                                                  "field": "nextincrementduedate",
+                                                  "headerName": "Next Increment Due date",
+                                                  "width": 150,
+                                                  "editable": "true"
+                                                },
+                                                {
+                                                    "field": "uan",
+                                                    "headerName": "UAN",
+                                                    "width": 150,
+                                                    "editable": "true"
+                                                  }
+            
+  ]

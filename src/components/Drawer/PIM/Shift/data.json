@@ -1,0 +1,29 @@
+[
+    { "id": 1,
+     "language": "Hindi",
+     "cast": "Brahmins",
+     "religion": "Hinduism",
+     "groupname":"Bonus",
+     "parametername":"Grace Period in",
+     "parametervalue": 8
+    },
+    { "id": 2,
+     "language": "English ",
+     "cast": "Kshatriya",
+     "religion": "Islam",
+     "groupname":"Retaining",
+     "parametername":"Grace Period out",
+     "parametervalue": 8
+    },
+    { "id": 3,
+     "language": 
+     "Kerala ",
+     "cast": "Vaisya",
+     "religion": "Christianity",
+     "groupname":"Attendance",
+     "parametername":"Bonous %",
+     "parametervalue": 8
+    }
+
+  ]
+  

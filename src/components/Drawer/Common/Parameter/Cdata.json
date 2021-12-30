@@ -1,0 +1,21 @@
+ [
+  { "field": "id", "headerName": "ID", "width": 90 },
+  {
+    "field": "groupname",
+    "headerName": "Group Name",
+    "width": 150,
+    "editable": "true"
+  },
+  {
+    "field": "parametername",
+    "headerName": "Parameter Name",
+    "width": 150,
+    "editable": "true"
+  },
+  {
+    "field": "parametervalue",
+    "headerName": "Parameter Value",
+    "width": 150,
+    "editable": "true"
+  }
+]

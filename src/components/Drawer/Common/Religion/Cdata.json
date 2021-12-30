@@ -1,0 +1,9 @@
+[
+    { "field": "id", "headerName": "id", "width": 90 },
+    {
+      "field": "name",
+      "headerName": "name",
+      "width": 150,
+      "editable": "true"
+    }
+  ]

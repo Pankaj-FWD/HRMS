@@ -1,0 +1,15 @@
+[
+    { "field": "id", "headerName": "ID", "width": 90 },
+    {
+      "field": "divisioncode",
+      "headerName": "Division Code",
+      "width": 150,
+      "editable": "true"
+    },
+    {
+      "field": "divisioname",
+      "headerName": "Division Name",
+      "width": 150,
+      "editable": "true"
+    }
+  ]
